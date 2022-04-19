@@ -1,5 +1,5 @@
 # 介绍
-![介绍.png](https://github.com/helele90/ios-knowledge-map/blob/main/Objective-C/%E4%BB%8B%E7%BB%8D.png)
+![介绍.png](%E4%BB%8B%E7%BB%8D.png)
 
 # 内容
 ## NSObject
