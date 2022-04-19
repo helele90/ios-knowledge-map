@@ -29,7 +29,7 @@
 ![NSFoundation.png](NSFoundation.png)
 
 ## iOS14 优化
-![iOS14优化.png](iOS14)
+![iOS14优化.png](iOS14.png)
 
 # 一些问题
 ![一些问题.png](问题.png)
