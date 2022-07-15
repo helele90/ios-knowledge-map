@@ -41,5 +41,5 @@
 ![一些问题.png](问题.png)
 
 # 扩展链接
-- [](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+- [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 - [图解网络介绍](https://xiaolincoding.com/network/)
